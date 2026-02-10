@@ -98,11 +98,15 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## ✍️ Author & Credits
 
-- Developed by: Disha Polamarasetti
-- Role:Data Science Student | AI & ML Enthusiast
-- Objective:Built as a capstone project to demonstrate RAG (Retrieval-Augmented Generation) and combat online misinformation.
-- Contact:[GitHub](https://github.com/dpolamar-eng) | [LinkedIn Profile](https://www.linkedin.com/in/disha-pol)
+- **Developed by:** Disha Polamarasetti
+- **Role:** Data Science Student | AI & ML Enthusiast
+- **Objective**:Built as a capstone project to demonstrate RAG (Retrieval-Augmented Generation) and combat online misinformation.
+- **Contact:**[GitHub](https://github.com/dpolamar-eng) | [LinkedIn Profile](https://www.linkedin.com/in/disha-pol)
 
 ---
+## 📜 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 Developed with ❤️ to stop the spread of fake news.
