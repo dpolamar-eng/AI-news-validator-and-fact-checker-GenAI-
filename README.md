@@ -98,10 +98,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## ✍️ Author & Credits
 
-- **Developed by:** Disha
-- **Role:** AI/ML Enthusiast & Full Stack Developer
-- **Objective:** Built as a capstone project to demonstrate RAG (Retrieval-Augmented Generation) and combat online misinformation.
-- **Contact:** [GitHub Profile](https://github.com/your-username) | [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Developed by: Disha Polamarasetti
+- Role:Data Science Student | AI & ML Enthusiast
+- Objective:Built as a capstone project to demonstrate RAG (Retrieval-Augmented Generation) and combat online misinformation.
+- Contact:[https://github.com/dpolamar-eng/AI-news-validator-and-fact-checker-GenAI-/edit/main/README.md) | [LinkedIn Profile](https://www.linkedin.com/in/disha-pol)
 
 ---
 
