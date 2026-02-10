@@ -101,7 +101,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - Developed by: Disha Polamarasetti
 - Role:Data Science Student | AI & ML Enthusiast
 - Objective:Built as a capstone project to demonstrate RAG (Retrieval-Augmented Generation) and combat online misinformation.
-- Contact:[https://github.com/dpolamar-eng/AI-news-validator-and-fact-checker-GenAI-/edit/main/README.md) | [LinkedIn Profile](https://www.linkedin.com/in/disha-pol)
+- Contact:[GitHub](https://github.com/dpolamar-eng) | [LinkedIn Profile](https://www.linkedin.com/in/disha-pol)
 
 ---
 
